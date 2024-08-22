@@ -25,5 +25,72 @@
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
     }
+  ],
+  "residences": [
+    {
+      "_id": "1",
+      "name": "Résidence 1",
+      "address": "Dakar",
+      "zone": "Dakar",
+      "images": [
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300"
+      ],
+      "price": 10000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+    },
+    {
+      "_id": "2",
+      "name": "Résidence 2",
+      "address": "Mbour",
+      "zone": "Mbour",
+      "images": [
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300"
+      ],
+      "price": 10000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+    },
+    {
+      "_id": "3",
+      "name": "Résidence 3",
+      "address": "Saint Louis",
+      "zone": "Saint Louis",
+      "images": [
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300"
+      ],
+      "price": 10000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+    },
+    {
+      "_id": "4",
+      "name": "Résidence 4",
+      "address": "Saly",
+      "zone": "Saly",
+      "images": [
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300"
+      ],
+      "price": 10000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+    },
+    {
+      "_id": "5",
+      "name": "Résidence 5",
+      "address": "Capkiring",
+      "zone": "Capkiring",
+      "images": [
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300",
+        "https://picsum.photos/239/300"
+      ],
+      "price": 10000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+    }
   ]
 }
