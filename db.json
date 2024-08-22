@@ -2,23 +2,23 @@
   "zones": [
     {
       "name": "Dakar",
-      "image": "https://placehold.co/239x300"
+      "image": "https://picsum.photos/239/300"
     },
     {
       "name": "Mbour",
-      "image": "https://placehold.co/239x300"
+      "image": "https://picsum.photos/239/300"
     },
     {
       "name": "Saint Louis",
-      "image": "https://placehold.co/239x300"
+      "image": "https://picsum.photos/239/300"
     },
     {
       "name": "Saly",
-      "image": "https://placehold.co/239x300"
+      "image": "https://picsum.photos/239/300"
     },
     {
       "name": "Capkiring",
-      "image": "https://placehold.co/239x300"
+      "image": "https://picsum.photos/239/300"
     }
   ]
 }
