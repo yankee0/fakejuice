@@ -1,26 +1,31 @@
 {
   "zones": [
     {
+      "_id": 1,
       "name": "Dakar",
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
     },
     {
+      "_id": 2,
       "name": "Mbour",
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
     },
     {
+      "_id": 3,
       "name": "Saint Louis",
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
     },
     {
+      "_id": 4,
       "name": "Saly",
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
     },
     {
+      "_id": 5,
       "name": "Capkiring",
       "image": "https://picsum.photos/239/300",
       "residenceCount": 10
