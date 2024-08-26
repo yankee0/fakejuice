@@ -43,7 +43,9 @@
         "https://picsum.photos/239/300"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+      "lng": -17.4728749888761,
+      "lat": 14.689939314276472
     },
     {
       "_id": "2",
@@ -56,7 +58,9 @@
         "https://picsum.photos/239/300"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+      "lng": -16.97369336163976,
+      "lat": 14.409032789994626
     },
     {
       "_id": "3",
@@ -69,7 +73,9 @@
         "https://picsum.photos/239/300"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+      "lng": -16.493783123391978,
+      "lat": 15.852818527104176
     },
     {
       "_id": "4",
@@ -82,20 +88,24 @@
         "https://picsum.photos/239/300"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+      "lng": -17.01733190897167,
+      "lat": 14.44099690946534
     },
     {
       "_id": "5",
       "name": "Résidence 5",
-      "address": "Capkiring",
-      "zone": "Capkiring",
+      "address": "Tendouck",
+      "zone": "Ziguinchor",
       "images": [
         "https://picsum.photos/239/300",
         "https://picsum.photos/239/300",
         "https://picsum.photos/239/300"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+      "lng": -16.451282682814707,
+      "lat": 12.724118570798595
     }
   ]
 }
